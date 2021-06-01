@@ -24,6 +24,6 @@ requests==2.19.1
 rsa==3.4.2
 s3transfer==0.1.11
 six==1.10.0
-urllib3==1.23
+urllib3==1.26.5
 virtualenv-clone==0.3.0
 Werkzeug==0.14.1
